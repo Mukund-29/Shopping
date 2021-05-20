@@ -103,7 +103,7 @@ $conn->user_session_public();
       <div class="col-md-6"><br><br>
         <div style="margin-left: 10%;">
           <h1  style="margin-top: 50px;">Sign up right now.</h1><br>
-          <h3 >Yo wassup I am Bhaksar...</h3>
+          <h3 >Yo wassup I am mukund...</h3>
           <h3>Register here now for amazing product.</h3>
         </div>
       </div>
